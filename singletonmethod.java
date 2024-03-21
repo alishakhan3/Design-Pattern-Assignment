@@ -1,4 +1,4 @@
-public class singletmethod {
+public class singletonmethod {
     public static void main(String[] args) {
         Counter obj1 = Counter.getInstance();
         obj1.increment();
